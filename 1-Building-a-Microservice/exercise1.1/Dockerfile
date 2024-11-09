@@ -1,4 +1,4 @@
-# Pull in the layer of the base image: golang:1.21.3-alpine
+# Pull in the layer of the base image: golang:1.23.3-alpine
 
 
 # Set author label: LABEL author=[YOUR-EMAIL]
@@ -19,4 +19,4 @@
 # Expose the port 8888
 
 
-# Run the app
+# Set the entrypoint to run the app

@@ -1,6 +1,6 @@
 # Exercise 1.3: Run a Docker container with a Microservice
 
-In this exercise, you will build a Docker image from a Dockerfile and then run a container from this image.
+In this exercise, you will run a container from the before built image.
 
 ## Instructions
 
